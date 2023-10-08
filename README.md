@@ -13,7 +13,7 @@ Concurrency Level: 16 Requests Completed: 3270 \
 Concurrency Level: 32 Requests Completed: 4178 \
 Concurrency Level: 64 Requests Completed: 4621 \
 Concurrency Level: 128 Requests Completed: 4646 \
-Concurrency Level: 256 Requests Completed: socket: Too many open files (24)
+Concurrency Level: 256 Requests Completed: 4956 \
 
 ##### Why are there diminishing returns at higher concurrency levels?
 
